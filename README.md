@@ -1,6 +1,6 @@
-Cotizador de Préstamos en React
+Cotizador de Préstamos en Vue
 
-Este proyecto es un cotizador de préstamos desarrollado en React, que permite calcular el pago mensual basado en el monto solicitado y el plazo de pago.
+* Este proyecto es un cotizador de préstamos desarrollado en Vue, que permite calcular el pago mensual basado en el monto solicitado y el plazo de pago.
 
 Características
 
@@ -12,7 +12,7 @@ Características
 
 Tecnologías Utilizadas
 
- * React: Biblioteca principal para la creación de la interfaz de usuario.
+ * Vue: Framework principal para la creación de la interfaz de usuario.
 
  * JavaScript: Lógica de negocio y funcionalidad del cotizador.
 
